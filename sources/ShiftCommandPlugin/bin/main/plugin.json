@@ -1,0 +1,12 @@
+{
+	"name": "Shift Command",
+	"main": "net.defekt.amcc.shiftcmd.ShiftCmdPlugin",
+	"api": "1.9.0",
+	"version": "1.0",
+	"author": "Defective4",
+	"website": "https://github.com/Defective4/AMCC-Plugins",
+	"description": [
+		"Simple plugin adding the \"/sneak\" command.",
+		"It basically toggles player sneaking."
+	]
+}

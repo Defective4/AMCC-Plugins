@@ -1,0 +1,4 @@
+{
+	"name": "Shift Command",
+	"main": "net.defekt.amcc.shiftcmd.ShiftCmdPlugin"
+}
